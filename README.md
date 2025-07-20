@@ -1,6 +1,4 @@
-<div align="center">
- 🌌 WELCOME TO MY DIGITAL REALM
-</div>
+
 <div align="center">
 
   <!-- Sleek Dark Header -->
@@ -153,18 +151,6 @@ I am a full stack Software Engineer with strong knowledge of MERN stack, working
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SathwikUK&custom_title=My%20Coding%20Journey&bg_color=2d3748&color=4ecdc4&line=ff6b6b&point=ffeaa7&area=true&hide_border=true" width="100%"/>
 </div>
-
-### 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SathwikUK/SathwikUK/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SathwikUK/SathwikUK/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SathwikUK/SathwikUK/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-> **Note**: If the snake animation isn't showing, you need to set up the GitHub Action workflow. Create `.github/workflows/main.yml` in your repository with the snake generation workflow.
 
 ---
 
