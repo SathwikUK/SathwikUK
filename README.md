@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Gemini_Generated_Image_1uu8vx1uu8vx1uu8-removebg-preview.png" alt="Project Image" width="600" />
+  <img src="./Gemini_Generated_Image_1uu8vx1uu8vx1uu8-removebg-preview.png" alt="Project Image" width="350" height="350" />
 </div>
 <div align="center">
 
