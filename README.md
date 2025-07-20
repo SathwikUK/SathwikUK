@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/file/d/1UDhDQu4aSIqWI46avz2WMjlhmf_jCVUa/view?usp=sharing" alt="Project Image" width="600" />
+  <img src="./Gemini_Generated_Image_1uu8vx1uu8vx1uu8-removebg-preview.png" alt="Project Image" width="600" />
 </div>
 <div align="center">
 
